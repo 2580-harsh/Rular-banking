@@ -1,0 +1,28 @@
+.top{
+    font-size: 50px;
+}
+.top-1{
+    height: 38px;
+    text-align: center;
+}
+ 
+.bottom{
+    margin-top: 29px;
+    width: fit-content;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 45%;
+    margin-left: 25%;
+    margin-top: 11%;
+    font-size: 30px;
+   
+   
+}
+
+
+
+
